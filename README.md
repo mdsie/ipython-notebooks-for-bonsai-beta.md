@@ -1,4 +1,4 @@
-# ipython notebooks - for BONSAI-beta version
+# ipython notebooks - for Exioabse MR_HIOT
 
 Least square method tutorial -> Overdetermined system resolution - sugar in soft drinks and spirits.ipynb  
 Leontief inverse tutorial -> Calculate terminated results exiobase v.3.3.8 excluding iLUC.ipynb  
